@@ -1,0 +1,12 @@
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND sourceHost"}
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND sourceHost"}
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND sourceHost"}
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND sourceHost"}
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND sourceHost"}
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND source_host"}
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND source_host"}
+{"level":"error","message":"Migration failed: Error: getaddrinfo ENOTFOUND source_host"}
+{"level":"error","message":"Migration failed: error: role \"postgres\" does not exist"}
+{"level":"error","message":"Migration failed: error: role \"CODING\" does not exist"}
+{"level":"error","message":"Migration failed: error: relation \"source_table\" does not exist"}
+{"level":"error","message":"Migration failed: error: relation \"target_table\" does not exist"}
